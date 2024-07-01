@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ppppplus
 - 👀 I’m interested in multi-robot systems&energy efficient systems
-- 🌱 I’m currently an graduate student in Tsinghua Univ.
+- 🌱 I’m currently a graduate student in Tsinghua Univ.
 
 <!---
 ppppplus/ppppplus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
